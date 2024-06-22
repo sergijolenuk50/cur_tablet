@@ -1,0 +1,11 @@
+.head1{
+    display: flex;
+}
+
+.inp{
+    width: 28%;
+    height: 100px;
+}
+.table{
+    border: 1px solid black;
+}
